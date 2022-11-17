@@ -26,7 +26,6 @@ class Solution:
         
         #TODO: write code to calculate how much fat I gained
         #get rid of the 'None" and return whatever you want to return
-        self = 1
         self = 2(20 * pies)
         return self
     
