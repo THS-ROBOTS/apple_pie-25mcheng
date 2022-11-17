@@ -20,7 +20,7 @@ Input: 1    Output: 40
 """
 
 class Solution:
-    def apple_pie(self):
+    def apple_pie(pies):
         #TYPE pies: integer (int)
         #RETURN: integer (int)
         
