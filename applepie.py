@@ -20,15 +20,15 @@ Input: 1    Output: 40
 """
 
 class Solution:
-    def apple_pie(pies, self):
+    def apple_pie(self, pies):
         #TYPE pies: integer (int)
         #RETURN: integer (int)
         
         #TODO: write code to calculate how much fat I gained
         #get rid of the 'None" and return whatever you want to return
         self = 1
-        fat = (2(20 * pies)) * self
-        return fat
+        self = 2(20 * pies)
+        return self
     
 #PLEASE DON'T TOUCH ANYTHING DOWN HERE :)))
 def main():
